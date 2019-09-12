@@ -1,0 +1,21 @@
+{
+  "name": "payments-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.5",
+    "faker": "^4.1.0",
+    "lodash": "^4.17.15",
+    "mocker-data-generator": "^2.6.6",
+    "moment-timezone": "^0.5.26",
+    "randexp": "^0.5.3",
+    "squel": "^5.13.0"
+  }
+}
